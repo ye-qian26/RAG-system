@@ -1,8 +1,8 @@
 # RAG-system
 基于RAG的知识库管理系统
-# PaiSmart - 基于 RAG 的知识库管理系统
+# 基于 RAG 的知识库管理系统
 
-PaiSmart 是一个面向团队/组织的知识库问答系统，基于 RAG（Retrieval-Augmented Generation）实现从文档上传、解析、向量化、检索到问答生成的完整闭环。  
+这是一个面向团队/组织的知识库问答系统，基于 RAG（Retrieval-Augmented Generation）实现从文档上传、解析、向量化、检索到问答生成的完整闭环。  
 系统支持分片上传、异步处理、权限隔离检索、流式对话，适用于企业内部知识问答和文档智能检索场景。
 
 ## 功能特性
@@ -59,7 +59,7 @@ PaiSmart 是一个面向团队/组织的知识库问答系统，基于 RAG（Ret
 ## 项目结构
 
 ```text
-PaiSmart-main/
+project-root/
 ├─ src/                 # Java 后端源码
 ├─ frontend/            # Vue3 管理前端
 ├─ homepage/            # 官网/展示页
